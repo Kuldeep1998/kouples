@@ -1,0 +1,149 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+#title {
+  color: white;
+  background-color: #679b9b;
+}
+
+h1 {
+  padding-top: 3%;
+  padding-bottom: 1.5%;
+
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 1000;
+}
+h2{
+    font-family: 'Montserrat-bold', sans-serif;
+    font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.rotate {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+  
+ }
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  color: white;
+}
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.check {
+  margin: auto;
+}
+h3 {
+    font-family: 'Montserrat-bold', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+p {
+  color: #8f8f8f;
+}
+.icon{
+    margin-bottom: 1rem;
+    color: #ef8172;
+   
+}
+.icon:hover{
+    color: #ff4c68;
+}
+.property{
+    text-align: center;
+    padding: 5%;
+}
+#testimonials{
+    
+   
+  
+    text-align: center;
+    background-color: #679b9b;
+    color: white;
+    
+}
+.testimonials-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color: #679b9b;
+    text-align: center;
+        padding-bottom: 3%;}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+
+}
+.carousel-item{
+    padding: 7% 15%;
+
+}
+#pricing{
+    padding: 100px;
+}
+.price{
+    padding: 3% 2%;
+    text-align: center;
+}
+#features{
+    background-color:white;
+    position: relative;
+   
+   
+    z-index: 1;}
+    @media (max-width: 1028px){
+        #title{
+            text-align: center;
+        }
+        .rotate{
+            position: static;
+            transform: rotate(0);
+            padding-top: 6%;
+        }
+    }
+    #cta{
+      text-align: center;
+      background-color: #679b9b;
+      color: white;
+
+    }
+    .cta{
+      padding: 7% 15%;
+    }
+    .cta-heading{
+      font-family: 'Montserrat-black', sans-serif;
+      font-size: 3.5rem;
+      line-height: 1.5;
+    }
+    .Download-button{
+      margin: 10px;
+    }
+    #footer{
+
+      padding: 7% 15%;
+      text-align: center;
+
+
+    }
+    .social-icon{
+      margin: 20px 10px;
+    }
+    
+    
+    
+    
+  
+    
+
+
