@@ -3,7 +3,11 @@ body {
 }
 #title {
   color: white;
-  background-color: #679b9b;
+  background-color: #ff847c;
+  
+}
+#features {
+background-color: #8594e4 ;
 }
 
 h1 {
@@ -139,8 +143,6 @@ p {
     .social-icon{
       margin: 20px 10px;
     }
-    
-    
     
     
   
